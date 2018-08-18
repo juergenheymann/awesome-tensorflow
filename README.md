@@ -27,6 +27,7 @@ More info [here](http://tensorflow.org).
 
 
 <a name="github-tutorials" />
+
 ## Tutorials
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano 
@@ -38,6 +39,7 @@ More info [here](http://tensorflow.org).
 
 
 <a name="github-projects" />
+
 ## Models/Projects
 * [Show, Attend and Tell] (https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API 
@@ -65,12 +67,14 @@ More info [here](http://tensorflow.org).
 * [YOLO Tensorflow ++](https://github.com/thtrieu/yolotf) - Tensorflow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
 <a name="github-powered-by" />
+
 ## Powered by TensorFlow
 * [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) - Implementation of 'YOLO : Real-Time Object Detection'
 * [Magenta](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
 
 
 <a name="libraries" />
+
 ## Libraries
 * [Scikit Flow (TF Learn)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
@@ -83,7 +87,8 @@ More info [here](http://tensorflow.org).
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 
 <a name="video" />
-##Videos
+
+## Videos
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
 * [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 * [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
@@ -99,7 +104,8 @@ More info [here](http://tensorflow.org).
 
 
 <a name="papers" />
-##Papers
+
+## Papers
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI)
@@ -125,6 +131,7 @@ More info [here](http://tensorflow.org).
 
 
 <a name="community" />
+
 ## Community
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
 * [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
@@ -133,6 +140,7 @@ More info [here](http://tensorflow.org).
 
 
 <a name="books" />
+
 ## Books
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
@@ -142,6 +150,7 @@ More info [here](http://tensorflow.org).
 
 
 <a name="contributions" />
+
 ## Contributions
 Your contributions are always welcome!
 
@@ -155,6 +164,7 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 
 <a name="credits" />
+
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
